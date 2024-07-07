@@ -1,0 +1,6 @@
+@PaparaPatika_HostAddress = http://localhost:5213
+
+GET {{PaparaPatika_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
