@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PaparaPatika.Entitities;
+using PaparaPatika.IServices;
 
 namespace PaparaPatika.Controllers
 {
@@ -9,24 +10,24 @@ namespace PaparaPatika.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
-        private readonly PaparaDbContext _context;
+        private readonly IBookService _bookService;
 
-        public BookController(PaparaDbContext context)
+        public BookController(IBookService bookService)
         {
-            _context = context;
+            _bookService = bookService;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetAllBooksAsync() 
         {
-            List<Book> bookList = await _context.Books.ToListAsync();
+            List<Book> bookList = await _bookService.GetAllBooksAsync();
             return Ok(bookList);
         }
 
         [HttpGet("id")]
         public async Task<IActionResult> GetBookByIdAsync([FromQuery] int id)
         {
-            Book? book = await _context.Books.FindAsync(id);
+            Book? book = await _bookService.GetBookByIdAsync(id);
             if (book == null)
             {
                 return NotFound();
@@ -41,43 +42,37 @@ namespace PaparaPatika.Controllers
             {
                 return BadRequest(ModelState);
             }
-            _context.Books.AddAsync(newBook);
-            await _context.SaveChangesAsync();
-            return Ok(newBook);
+            Book _newBook = await _bookService.CreateBookAsync(newBook);
+            return Ok(_newBook);
         }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateBookAsync([FromBody] Book bookToUpdate)
         {
-            Book? _bookToUpdate = await _context.Books.FindAsync(bookToUpdate.Id);
+            Book? _bookToUpdate = await _bookService.UpdateBookAsync(bookToUpdate);
             if (_bookToUpdate == null)
             {
                 return NotFound();
             }
-            _bookToUpdate.Title = bookToUpdate.Title;
-            _bookToUpdate.PublishDate = bookToUpdate.PublishDate;
-            await _context.SaveChangesAsync();
             return Ok(bookToUpdate);
         }
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveBookAsync(int id)
         {
-            Book? bookToDelete = await _context.Books.FindAsync(id);
-            if (bookToDelete == null)
+            Book bookToRemove = await _bookService.RemoveBookAsync(id);
+            if (bookToRemove == null)
             {
                 return NotFound();
             }
-            _context.Books.Remove(bookToDelete);
-            await _context.SaveChangesAsync();
             return Ok();
         }
 
-        [HttpGet("sort")]
-        public async Task<IActionResult> SortBooksByNameAsync()
-        {
-            List<Book> sortedBookList = await _context.Books.OrderBy(b => b.Title).ToListAsync();
-            return Ok(sortedBookList);
-        }
+        //[HttpGet("sort")]
+        //public async Task<IActionResult> SortBooksByNameAsync()
+        //{
+        //    List<Book> sortedBookList = await _context.Books.OrderBy(b => b.Title).ToListAsync();
+        //    return Ok(sortedBookList);
+        //}
     }
 }
