@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using PaparaPatika.Entitities;
 using System.Threading.Tasks;
 
 namespace PaparaPatika.Middlewares
@@ -11,7 +12,7 @@ namespace PaparaPatika.Middlewares
         {
             _next = next;
         }
-
+        //      Terminale "/api/Book isteği alındı." gibi loglar basar
         public async Task InvokeAsync(HttpContext context)
         {
             // Log here

@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PaparaPatika.Entitities;
 using PaparaPatika.IServices;
+using PaparaPatika.Validation;
 using PaparaPatika.ViewModels;
+using System.ComponentModel.DataAnnotations;
 
 namespace PaparaPatika.Controllers
 {
@@ -17,6 +19,8 @@ namespace PaparaPatika.Controllers
         {
             _bookService = bookService;
         }
+
+        // Aşağıdaki metodlarda viewModeller kullanılmıştır.
 
         [HttpGet]
         public async Task<IActionResult> GetAllBooksAsync() 
@@ -36,26 +40,38 @@ namespace PaparaPatika.Controllers
             return Ok(book);
         }
 
+        // Gelen kayıt modelinin validasyon kontrolü de yapılıyor.
         [HttpPost]
         public async Task<IActionResult> CreateBookAsync([FromBody] BookViewModel newBook)
         {
-            if(!ModelState.IsValid)
+            try
             {
-                return BadRequest(ModelState);
+                BookViewModel createdBook = await _bookService.CreateBookAsync(newBook);
+                return Ok(createdBook);
             }
-            BookViewModel createdBook = await _bookService.CreateBookAsync(newBook);
-            return Ok(createdBook);
+            catch (ValidationException ex)
+            {
+                return BadRequest(new { Errors = ex.Message });
+            }
         }
 
+        // Gelen güncelleme modelinin validasyon kontrolü de yapılıyor.
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateBookAsync([FromRoute] int id, [FromBody] BookViewModel bookToUpdate)
         {
-            BookViewModel? updatedBook = await _bookService.UpdateBookAsync(id, bookToUpdate);
-            if (updatedBook == null)
+            try
             {
-                return NotFound();
+                BookViewModel? updatedBook = await _bookService.UpdateBookAsync(id, bookToUpdate);
+                if (updatedBook == null)
+                {
+                    return NotFound();
+                }
+                return Ok(updatedBook);
             }
-            return Ok(updatedBook);
+            catch(ValidationException ex)
+            {
+                return BadRequest(new { Errors = ex.Message });
+            }
         }
 
         [HttpDelete("{id}")]

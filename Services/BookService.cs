@@ -2,7 +2,9 @@
 using PaparaPatika.Entitities;
 using PaparaPatika.IRepositories;
 using PaparaPatika.IServices;
+using PaparaPatika.Validation;
 using PaparaPatika.ViewModels;
+using System.ComponentModel.DataAnnotations;
 
 namespace PaparaPatika.Services
 {
@@ -19,8 +21,18 @@ namespace PaparaPatika.Services
             _mapper = mapper;
         }
 
+        // Aşağıdaki metodlarda viewModeller kullanılmıştır.
+
+        // Gelen kayıt modelinin validasyon kontrolü de yapılıyor.
         public async Task<BookViewModel> CreateBookAsync(BookViewModel newBook)
         {
+            BookValidator bookValidator = new BookValidator();
+            var validationResult = await bookValidator.ValidateAsync(newBook);
+            if (!validationResult.IsValid)
+            {
+                var errors = string.Join(", ", validationResult.Errors.Select(e => e.ErrorMessage));
+                throw new ValidationException(errors);
+            }
             Book bookToCreate = _mapper.Map<Book>(newBook);
             Book createdBook = await _bookRepository.CreateBookAsync(bookToCreate);
             BookViewModel _createdBook = _mapper.Map<BookViewModel>(createdBook);
@@ -53,8 +65,16 @@ namespace PaparaPatika.Services
             return _deletedBook;
         }
 
+        // Gelen kayıt modelinin validasyon kontrolü de yapılıyor.
         public async Task<BookViewModel> UpdateBookAsync(int id, BookViewModel newBook)
         {
+            BookValidator bookValidator = new BookValidator();
+            var validationResult = await bookValidator.ValidateAsync(newBook);
+            if (!validationResult.IsValid)
+            {
+                var errors = string.Join(", ", validationResult.Errors.Select(e => e.ErrorMessage));
+                throw new ValidationException(errors);
+            }
             Book bookToUpdate = _mapper.Map<Book>(newBook);
             bookToUpdate.Id = id;
             Book updatedBook = await _bookRepository.UpdateBookAsync(bookToUpdate);

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fh0gFKjBwr4R7eGE34ngaozLHcAZ3CwyMFXCOu1n+TT+LrUHMOUNiPZo+4+eUpwbjKaEieGN4FZkCXJaWaCueg==",
+  "dgSpecHash": "V2mhxkPqLXc7kqWR2h0bbGmepH7e+hl/HEPyWK79/mKRZJXfTxohIPd+EsMhyUK7LoxrnFCKzsYe1F1yIT/zJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mehmet Kemal\\Desktop\\Uygulama\\PaparaPatika\\PaparaPatika\\PaparaPatika.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
