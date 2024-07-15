@@ -1,0 +1,1490 @@
+2024-07-10 18:08:56.469 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 18:08:56.497 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 18:08:56.503 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 18:08:56.504 +03:00 [INF] Hosting environment: Development
+2024-07-10 18:08:56.505 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 18:09:00.781 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 18:09:01.538 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 18:09:01.540 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 816.8795ms
+2024-07-10 18:09:01.540 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 18:09:01.562 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 23.6041ms
+2024-07-10 18:09:01.634 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 94.5233ms
+2024-07-10 18:09:01.694 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 18:09:01.831 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 136.691ms
+2024-07-10 18:23:01.541 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 18:23:01.595 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 18:23:01.597 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 18:23:01.599 +03:00 [INF] Hosting environment: Development
+2024-07-10 18:23:01.601 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 18:28:57.624 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 18:28:57.643 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 18:28:57.646 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 18:28:57.648 +03:00 [INF] Hosting environment: Development
+2024-07-10 18:28:57.649 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 18:29:00.081 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 18:29:00.330 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 253.8632ms
+2024-07-10 18:29:00.339 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 18:29:00.339 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 18:29:00.363 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 19.5631ms
+2024-07-10 18:29:00.408 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 68.1235ms
+2024-07-10 18:29:00.480 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 18:29:00.583 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 104.0085ms
+2024-07-10 18:48:22.080 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 18:48:22.109 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 18:48:22.117 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 18:48:22.122 +03:00 [INF] Hosting environment: Development
+2024-07-10 18:48:22.125 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 18:48:22.842 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 18:48:23.268 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 432.277ms
+2024-07-10 18:48:23.269 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 18:48:23.269 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 18:48:23.298 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 28.3406ms
+2024-07-10 18:48:23.343 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 74.1756ms
+2024-07-10 18:48:23.414 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 18:48:23.609 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 195.9671ms
+2024-07-10 18:48:52.803 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Book - null null
+2024-07-10 18:48:52.840 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-10 18:48:52.875 +03:00 [INF] Route matched with {action = "GetAllBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllBooksAsync() on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 18:48:54.002 +03:00 [INF] Executed DbCommand (20ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+2024-07-10 18:48:54.089 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[PaparaPatika.Entitities.Book, PaparaPatika, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-10 18:48:54.109 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika) in 1226.1976ms
+2024-07-10 18:48:54.113 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-10 18:48:54.127 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Book - 200 null application/json; charset=utf-8 1323.7154ms
+2024-07-10 19:03:03.104 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 19:03:03.125 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 19:03:03.127 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 19:03:03.128 +03:00 [INF] Hosting environment: Development
+2024-07-10 19:03:03.129 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 19:03:03.608 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 19:03:03.864 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 258.5676ms
+2024-07-10 19:03:03.867 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 19:03:03.867 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 19:03:03.893 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 26.9963ms
+2024-07-10 19:03:03.948 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 82.3564ms
+2024-07-10 19:03:04.014 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 19:03:04.152 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 138.4128ms
+2024-07-10 19:03:24.833 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/11 - null null
+2024-07-10 19:03:24.853 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:03:24.881 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:03:26.158 +03:00 [INF] Executed DbCommand (39ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-10 19:03:26.412 +03:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Books]
+OUTPUT 1
+WHERE [Id] = @p0;
+2024-07-10 19:03:26.560 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 1669.1936ms
+2024-07-10 19:03:26.564 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:03:26.634 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'logger')
+   at System.ThrowHelper.Throw(String paramName)
+   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)
+   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)
+   at PaparaPatika.Services.BookService.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Services\BookService.cs:line 39
+   at PaparaPatika.Controllers.BookController.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Controllers\BookController.cs:line 63
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at PaparaPatika.Middlewares.LogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Middlewares\LogMiddleware.cs:line 20
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-10 19:03:26.779 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/11 - 500 null text/plain; charset=utf-8 1947.3464ms
+2024-07-10 19:04:11.094 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 19:04:11.133 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 19:04:11.137 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 19:04:11.139 +03:00 [INF] Hosting environment: Development
+2024-07-10 19:04:11.141 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 19:04:11.430 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 19:04:11.903 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 480.3914ms
+2024-07-10 19:04:11.910 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 19:04:11.910 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 19:04:11.952 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 41.966ms
+2024-07-10 19:04:12.005 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 95.1095ms
+2024-07-10 19:04:12.079 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 19:04:12.201 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 122.1877ms
+2024-07-10 19:04:21.367 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/10 - null null
+2024-07-10 19:04:21.385 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:04:21.411 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:04:22.748 +03:00 [INF] Executed DbCommand (43ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-10 19:04:22.972 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Books]
+OUTPUT 1
+WHERE [Id] = @p0;
+2024-07-10 19:04:23.110 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 1689.7039ms
+2024-07-10 19:04:23.114 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:04:23.189 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'logger')
+   at System.ThrowHelper.Throw(String paramName)
+   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)
+   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)
+   at PaparaPatika.Services.BookService.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Services\BookService.cs:line 39
+   at PaparaPatika.Controllers.BookController.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Controllers\BookController.cs:line 63
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at PaparaPatika.Middlewares.LogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Middlewares\LogMiddleware.cs:line 20
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-10 19:04:23.266 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/10 - 500 null text/plain; charset=utf-8 1898.9652ms
+2024-07-10 19:05:00.295 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/10 - null null
+2024-07-10 19:05:00.302 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:05:00.303 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:05:11.331 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-10 19:05:14.701 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 14395.924ms
+2024-07-10 19:05:14.705 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:05:17.158 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PaparaPatika.Services.BookService.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Services\BookService.cs:line 39
+   at PaparaPatika.Controllers.BookController.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Controllers\BookController.cs:line 63
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at PaparaPatika.Middlewares.LogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Middlewares\LogMiddleware.cs:line 20
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-10 19:05:17.176 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/10 - 500 null text/plain; charset=utf-8 16881.4071ms
+2024-07-10 19:05:34.782 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/9 - null null
+2024-07-10 19:05:34.792 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:05:34.795 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:05:49.452 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-10 19:06:20.745 +03:00 [INF] Executed DbCommand (27ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Books]
+OUTPUT 1
+WHERE [Id] = @p0;
+2024-07-10 19:06:51.499 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 76700.7525ms
+2024-07-10 19:06:51.502 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:06:51.555 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'logger')
+   at System.ThrowHelper.Throw(String paramName)
+   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)
+   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)
+   at PaparaPatika.Services.BookService.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Services\BookService.cs:line 39
+   at PaparaPatika.Controllers.BookController.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Controllers\BookController.cs:line 63
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at PaparaPatika.Middlewares.LogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Middlewares\LogMiddleware.cs:line 20
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-10 19:06:51.567 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/9 - 500 null text/plain; charset=utf-8 76786.0141ms
+2024-07-10 19:07:25.038 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 19:07:25.060 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 19:07:25.062 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 19:07:25.063 +03:00 [INF] Hosting environment: Development
+2024-07-10 19:07:25.064 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 19:07:25.435 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 19:07:25.735 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 19:07:25.735 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 19:07:25.738 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 308.563ms
+2024-07-10 19:07:25.751 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 15.4594ms
+2024-07-10 19:07:25.799 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 64.0433ms
+2024-07-10 19:07:25.885 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 19:07:25.996 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 111.3874ms
+2024-07-10 19:07:36.929 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/9 - null null
+2024-07-10 19:07:36.951 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:07:36.983 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:07:41.987 +03:00 [INF] Executed DbCommand (45ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-10 19:07:42.038 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-10 19:07:42.072 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 5083.6674ms
+2024-07-10 19:07:42.075 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:07:42.087 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/9 - 404 null application/problem+json; charset=utf-8 5158.3031ms
+2024-07-10 19:07:58.723 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7003/api/Book - application/json 68
+2024-07-10 19:07:58.738 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-10 19:07:58.750 +03:00 [INF] Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBookAsync(PaparaPatika.Entitities.Book) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:07:59.032 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Books] ([PublishDate], [Title])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2024-07-10 19:07:59.172 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika) in 418.7158ms
+2024-07-10 19:07:59.175 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-10 19:07:59.254 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'logger')
+   at System.ThrowHelper.Throw(String paramName)
+   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)
+   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)
+   at PaparaPatika.Services.BookService.CreateBookAsync(Book newBook) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Services\BookService.cs:line 20
+   at PaparaPatika.Controllers.BookController.CreateBookAsync(Book newBook) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Controllers\BookController.cs:line 45
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at PaparaPatika.Middlewares.LogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Middlewares\LogMiddleware.cs:line 20
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-10 19:07:59.302 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7003/api/Book - 500 null text/plain; charset=utf-8 578.9253ms
+2024-07-10 19:08:10.044 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/13 - null null
+2024-07-10 19:08:10.050 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:08:10.055 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:08:17.058 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-10 19:08:25.901 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Books]
+OUTPUT 1
+WHERE [Id] = @p0;
+2024-07-10 19:08:27.360 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-10 19:08:27.363 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 17302.904ms
+2024-07-10 19:08:27.366 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:08:27.368 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/13 - 200 0 null 17324.6177ms
+2024-07-10 19:10:17.435 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 19:10:17.454 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 19:10:17.457 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 19:10:17.458 +03:00 [INF] Hosting environment: Development
+2024-07-10 19:10:17.459 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 19:10:20.570 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 19:10:20.969 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 417.995ms
+2024-07-10 19:10:20.991 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 19:10:20.991 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 19:10:21.009 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 18.9757ms
+2024-07-10 19:10:21.087 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 96.4147ms
+2024-07-10 19:10:21.158 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 19:10:21.309 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 152.2685ms
+2024-07-10 19:10:31.158 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7003/api/Book - application/json 68
+2024-07-10 19:10:31.178 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-10 19:10:31.207 +03:00 [INF] Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBookAsync(PaparaPatika.Entitities.Book) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:10:32.452 +03:00 [INF] Executed DbCommand (67ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Books] ([PublishDate], [Title])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2024-07-10 19:10:32.636 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika) in 1417.7149ms
+2024-07-10 19:10:32.642 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-10 19:10:32.717 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'logger')
+   at System.ThrowHelper.Throw(String paramName)
+   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)
+   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)
+   at PaparaPatika.Services.BookService.CreateBookAsync(Book newBook) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Services\BookService.cs:line 20
+   at PaparaPatika.Controllers.BookController.CreateBookAsync(Book newBook) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Controllers\BookController.cs:line 45
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at PaparaPatika.Middlewares.LogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Middlewares\LogMiddleware.cs:line 20
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-10 19:10:32.782 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7003/api/Book - 500 null text/plain; charset=utf-8 1624.5012ms
+2024-07-10 19:10:47.273 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/14 - null null
+2024-07-10 19:10:47.281 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:10:47.294 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:10:55.129 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-10 19:10:55.198 +03:00 [INF] Executed DbCommand (7ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Books]
+OUTPUT 1
+WHERE [Id] = @p0;
+2024-07-10 19:11:42.333 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 55036.863ms
+2024-07-10 19:11:42.335 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:11:42.384 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'logger')
+   at System.ThrowHelper.Throw(String paramName)
+   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)
+   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)
+   at PaparaPatika.Services.BookService.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Services\BookService.cs:line 41
+   at PaparaPatika.Controllers.BookController.RemoveBookAsync(Int32 id) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Controllers\BookController.cs:line 63
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at PaparaPatika.Middlewares.LogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Middlewares\LogMiddleware.cs:line 20
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-10 19:11:42.393 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/14 - 500 null text/plain; charset=utf-8 55120.2065ms
+2024-07-10 19:16:07.660 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 19:16:07.694 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 19:16:07.697 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 19:16:07.699 +03:00 [INF] Hosting environment: Development
+2024-07-10 19:16:07.702 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 19:16:10.513 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 19:16:10.978 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 19:16:10.978 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 19:16:10.986 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 484.3184ms
+2024-07-10 19:16:11.027 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 49.2185ms
+2024-07-10 19:16:11.114 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 136.4982ms
+2024-07-10 19:16:11.222 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 19:16:11.482 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 265.7021ms
+2024-07-10 19:16:21.490 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Book - null null
+2024-07-10 19:16:21.523 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Book
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-10 19:16:21.531 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-10 19:16:21.560 +03:00 [INF] Route matched with {action = "GetAllBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllBooksAsync() on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:16:22.821 +03:00 [INF] Executed DbCommand (29ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+2024-07-10 19:16:22.913 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[PaparaPatika.Entitities.Book, PaparaPatika, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-10 19:16:22.936 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-10 19:16:22.954 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika) in 1378.369ms
+2024-07-10 19:16:22.958 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-10 19:16:22.964 +03:00 [INF] ResponseBody: [{"id":1,"title":"Test1","publishDate":"2024-07-07T12:11:17.551"},{"id":2,"title":"Test2","publishDate":"2024-07-07T12:11:17.551"},{"id":3,"title":"Test3","publishDate":"2024-07-07T12:11:17.551"},{"id":4,"title":"Test4","publishDate":"2024-07-07T12:11:17.551"},{"id":5,"title":"Test5","publishDate":"2024-07-07T12:11:17.551"}]
+2024-07-10 19:16:22.971 +03:00 [INF] Duration: 1449.4193ms
+2024-07-10 19:16:22.986 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Book - 200 null application/json; charset=utf-8 1496.6415ms
+2024-07-10 19:21:49.424 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 19:21:49.470 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 19:21:49.473 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 19:21:49.475 +03:00 [INF] Hosting environment: Development
+2024-07-10 19:21:49.476 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 19:21:50.122 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 19:21:50.617 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 19:21:50.625 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 19:21:50.629 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 507.7822ms
+2024-07-10 19:21:50.651 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 33.8877ms
+2024-07-10 19:21:50.699 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 79.1797ms
+2024-07-10 19:21:50.763 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 19:21:50.965 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 202.0349ms
+2024-07-10 19:22:00.365 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7003/api/Book - application/json 68
+2024-07-10 19:22:00.390 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Book
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: [Redacted]
+Referer: [Redacted]
+Content-Length: 68
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-10 19:22:00.403 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-10 19:22:00.454 +03:00 [INF] Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBookAsync(PaparaPatika.Entitities.Book) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:22:00.897 +03:00 [INF] RequestBody: {
+  "title": "string",
+  "publishDate": "2024-07-10T16:21:53.698Z"
+}
+2024-07-10 19:22:02.199 +03:00 [INF] Executed DbCommand (75ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Books] ([PublishDate], [Title])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2024-07-10 19:22:02.362 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika) in 1898.4177ms
+2024-07-10 19:22:02.368 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-10 19:22:02.444 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-10 19:22:02.449 +03:00 [INF] Duration: 2060.5175ms
+2024-07-10 19:22:02.460 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'logger')
+   at System.ThrowHelper.Throw(String paramName)
+   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)
+   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)
+   at PaparaPatika.Services.BookService.CreateBookAsync(Book newBook) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Services\BookService.cs:line 20
+   at PaparaPatika.Controllers.BookController.CreateBookAsync(Book newBook) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Controllers\BookController.cs:line 45
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at PaparaPatika.Middlewares.LogMiddleware.InvokeAsync(HttpContext context) in C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\Middlewares\LogMiddleware.cs:line 20
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-10 19:22:02.601 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7003/api/Book - 500 null text/plain; charset=utf-8 2235.732ms
+2024-07-10 19:23:50.648 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 19:23:50.683 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 19:23:50.687 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 19:23:50.688 +03:00 [INF] Hosting environment: Development
+2024-07-10 19:23:50.689 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 19:23:51.012 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 19:23:51.291 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 291.3862ms
+2024-07-10 19:23:51.302 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 19:23:51.302 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 19:23:51.313 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 11.0375ms
+2024-07-10 19:23:51.367 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 65.7055ms
+2024-07-10 19:23:51.426 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 19:23:51.537 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 111.5473ms
+2024-07-10 19:23:59.993 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/15 - null null
+2024-07-10 19:24:00.024 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: DELETE
+Scheme: https
+PathBase: 
+Path: /api/Book/15
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Origin: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-10 19:24:00.031 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:24:00.070 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:24:01.454 +03:00 [INF] Executed DbCommand (41ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-10 19:24:01.651 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Books]
+OUTPUT 1
+WHERE [Id] = @p0;
+2024-07-10 19:24:01.675 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-10 19:24:01.684 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 1604.6038ms
+2024-07-10 19:24:01.693 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-10 19:24:01.701 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-10 19:24:01.711 +03:00 [INF] Duration: 1686.8304ms
+2024-07-10 19:24:01.724 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/15 - 200 0 null 1731.0671ms
+2024-07-10 19:25:26.195 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-10 19:25:26.217 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-10 19:25:26.220 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 19:25:26.221 +03:00 [INF] Hosting environment: Development
+2024-07-10 19:25:26.222 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-10 19:25:26.662 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-10 19:25:26.958 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 307.3741ms
+2024-07-10 19:25:26.964 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-10 19:25:26.964 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-10 19:25:26.980 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 15.6392ms
+2024-07-10 19:25:27.048 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 83.9534ms
+2024-07-10 19:25:27.111 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-10 19:25:27.211 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 99.7262ms
+2024-07-10 19:25:46.383 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7003/api/Book - application/json 68
+2024-07-10 19:25:46.397 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Book
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: [Redacted]
+Referer: [Redacted]
+Content-Length: 68
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-10 19:25:46.406 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-10 19:25:46.429 +03:00 [INF] Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBookAsync(PaparaPatika.Entitities.Book) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-10 19:25:46.590 +03:00 [INF] RequestBody: {
+  "title": "string",
+  "publishDate": "2024-07-10T16:25:31.491Z"
+}
+2024-07-10 19:25:47.241 +03:00 [INF] Executed DbCommand (31ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Books] ([PublishDate], [Title])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2024-07-10 19:25:47.284 +03:00 [INF] Kitap oluşturuldu: string
+2024-07-10 19:25:47.293 +03:00 [INF] Executing OkObjectResult, writing value of type 'PaparaPatika.Entitities.Book'.
+2024-07-10 19:25:47.306 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-10 19:25:47.313 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika) in 878.3401ms
+2024-07-10 19:25:47.320 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-10 19:25:47.326 +03:00 [INF] ResponseBody: {"id":16,"title":"string","publishDate":"2024-07-10T16:25:31.491Z"}
+2024-07-10 19:25:47.329 +03:00 [INF] Duration: 933.4389ms
+2024-07-10 19:25:47.340 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7003/api/Book - 200 null application/json; charset=utf-8 957.8485ms
+2024-07-11 18:03:59.062 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-11 18:03:59.085 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-11 18:03:59.087 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 18:03:59.089 +03:00 [INF] Hosting environment: Development
+2024-07-11 18:03:59.090 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-11 18:04:04.831 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-11 18:04:05.204 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 381.0215ms
+2024-07-11 18:04:05.226 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-11 18:04:05.242 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 16.234ms
+2024-07-11 18:04:05.254 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-11 18:04:05.352 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 98.9009ms
+2024-07-11 18:04:05.495 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-11 18:04:05.626 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 131.1213ms
+2024-07-11 18:05:54.195 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/16 - null null
+2024-07-11 18:05:54.221 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: DELETE
+Scheme: https
+PathBase: 
+Path: /api/Book/16
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Origin: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-11 18:05:54.231 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-11 18:05:54.261 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-11 18:05:55.343 +03:00 [INF] Executed DbCommand (42ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-11 18:05:55.488 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Books]
+OUTPUT 1
+WHERE [Id] = @p0;
+2024-07-11 18:05:55.507 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-11 18:05:55.513 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 1243.2222ms
+2024-07-11 18:05:55.517 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-11 18:05:55.522 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-11 18:05:55.525 +03:00 [INF] Duration: 1306.8346ms
+2024-07-11 18:05:55.537 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/16 - 200 0 null 1342.9059ms
+2024-07-11 18:06:31.193 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-11 18:06:31.218 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-11 18:06:31.221 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 18:06:31.222 +03:00 [INF] Hosting environment: Development
+2024-07-11 18:06:31.223 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-11 18:06:34.466 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-11 18:06:34.770 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 308.8ms
+2024-07-11 18:06:34.777 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-11 18:06:34.788 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-11 18:06:34.799 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 21.7555ms
+2024-07-11 18:06:34.850 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.6319ms
+2024-07-11 18:06:34.919 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-11 18:06:35.044 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 125.4555ms
+2024-07-11 18:06:44.412 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7003/api/Book - application/json 68
+2024-07-11 18:06:44.428 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Book
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: [Redacted]
+Referer: [Redacted]
+Content-Length: 68
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-11 18:06:44.437 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-11 18:06:44.460 +03:00 [INF] Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBookAsync(PaparaPatika.Entitities.Book) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-11 18:06:44.659 +03:00 [INF] RequestBody: {
+  "title": "string",
+  "publishDate": "2024-07-11T15:06:39.168Z"
+}
+2024-07-11 18:06:45.410 +03:00 [INF] Executed DbCommand (39ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Books] ([PublishDate], [Title])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2024-07-11 18:06:45.454 +03:00 [INF] Kitap oluşturuldu: string
+2024-07-11 18:06:45.459 +03:00 [INF] Executing OkObjectResult, writing value of type 'PaparaPatika.Entitities.Book'.
+2024-07-11 18:06:45.468 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-11 18:06:45.474 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika) in 1008.7953ms
+2024-07-11 18:06:45.476 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-11 18:06:45.478 +03:00 [INF] ResponseBody: {"id":17,"title":"string","publishDate":"2024-07-11T15:06:39.168Z"}
+2024-07-11 18:06:45.482 +03:00 [INF] Duration: 1052.9854ms
+2024-07-11 18:06:45.493 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7003/api/Book - 200 null application/json; charset=utf-8 1081.1417ms
+2024-07-11 18:08:06.992 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-11 18:08:07.015 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-11 18:08:07.017 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 18:08:07.019 +03:00 [INF] Hosting environment: Development
+2024-07-11 18:08:07.020 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-11 18:08:10.105 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-11 18:08:10.460 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 364.4642ms
+2024-07-11 18:08:10.467 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-11 18:08:10.467 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-11 18:08:10.485 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 18.4874ms
+2024-07-11 18:08:10.528 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.0782ms
+2024-07-11 18:08:10.591 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-11 18:08:10.685 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 95.1033ms
+2024-07-11 18:08:33.169 +03:00 [INF] Request starting HTTP/2 PUT https://localhost:7003/api/Book/17 - application/json 89
+2024-07-11 18:08:33.195 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: PUT
+Scheme: https
+PathBase: 
+Path: /api/Book/17
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: [Redacted]
+Referer: [Redacted]
+Content-Length: 89
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-11 18:08:33.205 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika)'
+2024-07-11 18:08:33.256 +03:00 [INF] Route matched with {action = "UpdateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateBookAsync(PaparaPatika.Entitities.Book) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-11 18:08:33.476 +03:00 [INF] RequestBody: {
+  "id": 17,
+  "title": "Yeni kitap adı",
+  "publishDate": "2024-07-11T15:08:17.258Z"
+}
+2024-07-11 18:08:34.590 +03:00 [INF] Executed DbCommand (53ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-11 18:08:34.784 +03:00 [INF] Executed DbCommand (21ms) [Parameters=[@p2='?' (DbType = Int32), @p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Books] SET [PublishDate] = @p0, [Title] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+2024-07-11 18:08:34.804 +03:00 [INF] Kitap güncellendi: Yeni kitap adı
+2024-07-11 18:08:34.813 +03:00 [INF] Executing OkObjectResult, writing value of type 'PaparaPatika.Entitities.Book'.
+2024-07-11 18:08:34.823 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-11 18:08:34.831 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika) in 1567.0772ms
+2024-07-11 18:08:34.835 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika)'
+2024-07-11 18:08:34.840 +03:00 [INF] ResponseBody: {"id":17,"title":"Yeni kitap adı","publishDate":"2024-07-11T15:08:17.258Z"}
+2024-07-11 18:08:34.846 +03:00 [INF] Duration: 1651.6859ms
+2024-07-11 18:08:34.865 +03:00 [INF] Request finished HTTP/2 PUT https://localhost:7003/api/Book/17 - 200 null application/json; charset=utf-8 1696.6621ms
+2024-07-11 18:08:52.182 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/17 - null null
+2024-07-11 18:08:52.187 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: DELETE
+Scheme: https
+PathBase: 
+Path: /api/Book/17
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Origin: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-11 18:08:52.189 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-11 18:08:52.198 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-11 18:08:52.229 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-11 18:08:52.252 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Books]
+OUTPUT 1
+WHERE [Id] = @p0;
+2024-07-11 18:08:52.259 +03:00 [INF] Kitap silindi: Yeni kitap adı
+2024-07-11 18:08:52.265 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-11 18:08:52.267 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 65.3328ms
+2024-07-11 18:08:52.268 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-11 18:08:52.270 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-11 18:08:52.271 +03:00 [INF] Duration: 84.4031ms
+2024-07-11 18:08:52.273 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/17 - 200 0 null 92.2965ms
+2024-07-15 16:10:03.766 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-15 16:10:03.800 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-15 16:10:03.807 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 16:10:03.810 +03:00 [INF] Hosting environment: Development
+2024-07-15 16:10:03.813 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-15 16:10:07.679 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-15 16:10:08.158 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-15 16:10:08.158 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-15 16:10:08.160 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 487.0965ms
+2024-07-15 16:10:08.181 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 21.1182ms
+2024-07-15 16:10:08.250 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.8597ms
+2024-07-15 16:10:08.391 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-15 16:10:08.583 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 192.6732ms
+2024-07-15 16:10:12.454 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Book - null null
+2024-07-15 16:10:12.504 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Book
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 16:10:12.512 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-15 16:10:12.553 +03:00 [INF] Route matched with {action = "GetAllBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllBooksAsync() on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 16:10:14.083 +03:00 [INF] Executed DbCommand (39ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+2024-07-15 16:10:14.213 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[PaparaPatika.ViewModels.BookViewModel, PaparaPatika, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-15 16:10:14.238 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-15 16:10:14.248 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika) in 1684.5289ms
+2024-07-15 16:10:14.252 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-15 16:10:14.260 +03:00 [INF] ResponseBody: [{"title":"Test1","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test2","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test3","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test4","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test5","publishDate":"2024-07-07T12:11:17.551"}]
+2024-07-15 16:10:14.266 +03:00 [INF] Duration: 1763.624ms
+2024-07-15 16:10:14.283 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Book - 200 null application/json; charset=utf-8 1830.373ms
+2024-07-15 16:13:08.785 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-15 16:13:08.804 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-15 16:13:08.807 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 16:13:08.809 +03:00 [INF] Hosting environment: Development
+2024-07-15 16:13:08.810 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-15 16:13:09.715 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-15 16:13:09.993 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 285.5998ms
+2024-07-15 16:13:10.019 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-15 16:13:10.023 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-15 16:13:10.052 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 34.9119ms
+2024-07-15 16:13:10.121 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 99.8951ms
+2024-07-15 16:13:10.742 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-15 16:13:10.855 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 112.9802ms
+2024-07-15 16:13:14.204 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Book/id - null null
+2024-07-15 16:13:14.227 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Book/id
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 16:13:14.236 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika)'
+2024-07-15 16:13:14.283 +03:00 [INF] Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookByIdAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 16:13:15.559 +03:00 [INF] Executed DbCommand (42ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-15 16:13:15.622 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-15 16:13:15.660 +03:00 [INF] Response:
+StatusCode: 404
+Content-Type: application/problem+json; charset=utf-8
+2024-07-15 16:13:15.673 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika) in 1383.9376ms
+2024-07-15 16:13:15.676 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika)'
+2024-07-15 16:13:15.680 +03:00 [INF] ResponseBody: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.5","title":"Not Found","status":404,"traceId":"00-d7670db77e39b6c9a1073bed8e76ec84-53ed8c8ebe63a9a7-00"}
+2024-07-15 16:13:15.684 +03:00 [INF] Duration: 1460.6735ms
+2024-07-15 16:13:15.701 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Book/id - 404 null application/problem+json; charset=utf-8 1497.3717ms
+2024-07-15 16:13:16.903 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Book/id?id=1 - null null
+2024-07-15 16:13:16.914 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Book/id
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 16:13:16.917 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika)'
+2024-07-15 16:13:16.922 +03:00 [INF] Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookByIdAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 16:13:17.008 +03:00 [INF] Executed DbCommand (9ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-15 16:13:17.085 +03:00 [INF] Executing OkObjectResult, writing value of type 'PaparaPatika.ViewModels.BookViewModel'.
+2024-07-15 16:13:17.096 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-15 16:13:17.098 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika) in 169.4345ms
+2024-07-15 16:13:17.101 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika)'
+2024-07-15 16:13:17.103 +03:00 [INF] ResponseBody: {"title":"Test1","publishDate":"2024-07-07T12:11:17.551"}
+2024-07-15 16:13:17.103 +03:00 [INF] Duration: 189.8085ms
+2024-07-15 16:13:17.105 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Book/id?id=1 - 200 null application/json; charset=utf-8 202.2335ms
+2024-07-15 16:16:20.155 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-15 16:16:20.181 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-15 16:16:20.187 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 16:16:20.189 +03:00 [INF] Hosting environment: Development
+2024-07-15 16:16:20.190 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-15 16:16:23.336 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-15 16:16:23.612 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 284.9387ms
+2024-07-15 16:16:23.624 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-15 16:16:23.624 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-15 16:16:23.645 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 21.0865ms
+2024-07-15 16:16:23.688 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 64.2393ms
+2024-07-15 16:16:23.753 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-15 16:16:23.887 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 135.3295ms
+2024-07-15 16:25:06.302 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-15 16:25:06.322 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-15 16:25:06.325 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 16:25:06.326 +03:00 [INF] Hosting environment: Development
+2024-07-15 16:25:06.328 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-15 16:25:08.877 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-15 16:25:09.201 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-15 16:25:09.201 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-15 16:25:09.210 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 346.1036ms
+2024-07-15 16:25:09.273 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 70.3365ms
+2024-07-15 16:25:09.319 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 117.7675ms
+2024-07-15 16:25:09.391 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-15 16:25:09.507 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 116.8331ms
+2024-07-15 16:25:12.948 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Book - null null
+2024-07-15 16:25:12.985 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Book
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 16:25:12.997 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-15 16:25:13.038 +03:00 [INF] Route matched with {action = "GetAllBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllBooksAsync() on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 16:25:14.284 +03:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+2024-07-15 16:25:14.406 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[PaparaPatika.ViewModels.BookViewModel, PaparaPatika, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-15 16:25:14.424 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-15 16:25:14.436 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika) in 1385.8367ms
+2024-07-15 16:25:14.439 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-15 16:25:14.444 +03:00 [INF] ResponseBody: [{"title":"Test1","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test2","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test3","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test4","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test5","publishDate":"2024-07-07T12:11:17.551"}]
+2024-07-15 16:25:14.450 +03:00 [INF] Duration: 1469.1938ms
+2024-07-15 16:25:14.460 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Book - 200 null application/json; charset=utf-8 1512.5365ms
+2024-07-15 16:25:19.266 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Book/id?id=1 - null null
+2024-07-15 16:25:19.270 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Book/id
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 16:25:19.272 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika)'
+2024-07-15 16:25:19.286 +03:00 [INF] Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookByIdAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 16:25:19.498 +03:00 [INF] Executed DbCommand (18ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-15 16:25:19.510 +03:00 [INF] Executing OkObjectResult, writing value of type 'PaparaPatika.ViewModels.BookViewModel'.
+2024-07-15 16:25:19.513 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-15 16:25:19.515 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika) in 226.5223ms
+2024-07-15 16:25:19.517 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika)'
+2024-07-15 16:25:19.518 +03:00 [INF] ResponseBody: {"title":"Test1","publishDate":"2024-07-07T12:11:17.551"}
+2024-07-15 16:25:19.521 +03:00 [INF] Duration: 250.5976ms
+2024-07-15 16:25:19.523 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Book/id?id=1 - 200 null application/json; charset=utf-8 256.7071ms
+2024-07-15 16:25:24.194 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Book/id?id=1356 - null null
+2024-07-15 16:25:24.201 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Book/id
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 16:25:24.204 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika)'
+2024-07-15 16:25:24.206 +03:00 [INF] Route matched with {action = "GetBookById", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetBookByIdAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 16:25:24.300 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-15 16:25:24.314 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-15 16:25:24.334 +03:00 [INF] Response:
+StatusCode: 404
+Content-Type: application/problem+json; charset=utf-8
+2024-07-15 16:25:24.335 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika) in 127.301ms
+2024-07-15 16:25:24.339 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.GetBookByIdAsync (PaparaPatika)'
+2024-07-15 16:25:24.342 +03:00 [INF] ResponseBody: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.5","title":"Not Found","status":404,"traceId":"00-036be91bf7c7394999b80c2888514b28-dee0cd763a4610a0-00"}
+2024-07-15 16:25:24.343 +03:00 [INF] Duration: 142.3321ms
+2024-07-15 16:25:24.347 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Book/id?id=1356 - 404 null application/problem+json; charset=utf-8 152.959ms
+2024-07-15 22:24:09.521 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-15 22:24:09.545 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-15 22:24:09.549 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 22:24:09.552 +03:00 [INF] Hosting environment: Development
+2024-07-15 22:24:09.554 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-15 22:24:13.689 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-15 22:24:14.054 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 374.1337ms
+2024-07-15 22:24:14.062 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-15 22:24:14.062 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-15 22:24:14.079 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 17.7198ms
+2024-07-15 22:24:14.134 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 72.361ms
+2024-07-15 22:24:14.196 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-15 22:24:14.396 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 200.0803ms
+2024-07-15 22:24:24.422 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7003/api/Book - application/json 63
+2024-07-15 22:24:24.437 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Book
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: [Redacted]
+Referer: [Redacted]
+Content-Length: 63
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 22:24:24.465 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-15 22:24:24.515 +03:00 [INF] Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBookAsync(PaparaPatika.ViewModels.BookViewModel) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 22:24:24.945 +03:00 [INF] RequestBody: {
+  "title": "v",
+  "publishDate": "2024-07-15T19:24:19.005Z"
+}
+2024-07-15 22:24:25.876 +03:00 [INF] Executed DbCommand (48ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Books] ([PublishDate], [Title])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2024-07-15 22:24:25.937 +03:00 [INF] Kitap oluşturuldu: v
+2024-07-15 22:24:25.947 +03:00 [INF] Executing OkObjectResult, writing value of type 'PaparaPatika.ViewModels.BookViewModel'.
+2024-07-15 22:24:25.959 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-15 22:24:25.966 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika) in 1442.7735ms
+2024-07-15 22:24:25.974 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-15 22:24:25.978 +03:00 [INF] ResponseBody: {"title":"v","publishDate":"2024-07-15T19:24:19.005Z"}
+2024-07-15 22:24:25.984 +03:00 [INF] Duration: 1547.4658ms
+2024-07-15 22:24:25.999 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7003/api/Book - 200 null application/json; charset=utf-8 1577.6026ms
+2024-07-15 22:24:35.335 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/api/Book - null null
+2024-07-15 22:24:35.340 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Book
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 22:24:35.343 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-15 22:24:35.350 +03:00 [INF] Route matched with {action = "GetAllBooks", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllBooksAsync() on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 22:24:35.711 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+2024-07-15 22:24:35.750 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[PaparaPatika.ViewModels.BookViewModel, PaparaPatika, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-15 22:24:35.753 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-15 22:24:35.757 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika) in 405.3244ms
+2024-07-15 22:24:35.763 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.GetAllBooksAsync (PaparaPatika)'
+2024-07-15 22:24:35.765 +03:00 [INF] ResponseBody: [{"title":"Test1","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test2","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test3","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test4","publishDate":"2024-07-07T12:11:17.551"},{"title":"Test5","publishDate":"2024-07-07T12:11:17.551"},{"title":"v","publishDate":"2024-07-15T19:24:19.005"}]
+2024-07-15 22:24:35.766 +03:00 [INF] Duration: 426.9977ms
+2024-07-15 22:24:35.768 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/api/Book - 200 null application/json; charset=utf-8 433.1815ms
+2024-07-15 22:35:31.433 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-15 22:35:31.454 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-15 22:35:31.458 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 22:35:31.459 +03:00 [INF] Hosting environment: Development
+2024-07-15 22:35:31.460 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-15 22:35:31.967 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-15 22:35:32.247 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 285.8825ms
+2024-07-15 22:35:32.258 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-15 22:35:32.258 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-15 22:35:32.276 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 17.7998ms
+2024-07-15 22:35:32.325 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.684ms
+2024-07-15 22:35:32.386 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-15 22:35:32.497 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 111.8689ms
+2024-07-15 22:35:53.119 +03:00 [INF] Request starting HTTP/2 PUT https://localhost:7003/api/Book/18 - application/json 72
+2024-07-15 22:35:53.144 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: PUT
+Scheme: https
+PathBase: 
+Path: /api/Book/18
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: [Redacted]
+Referer: [Redacted]
+Content-Length: 72
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 22:35:53.159 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika)'
+2024-07-15 22:35:53.197 +03:00 [INF] Route matched with {action = "UpdateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateBookAsync(PaparaPatika.ViewModels.BookViewModel) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 22:35:53.521 +03:00 [INF] RequestBody: {
+  "title": "Validation",
+  "publishDate": "2024-07-15T19:35:40.348Z"
+}
+2024-07-15 22:35:54.672 +03:00 [INF] Executed DbCommand (56ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-15 22:35:54.703 +03:00 [INF] Kitap güncellendi: Validation
+2024-07-15 22:35:54.735 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-15 22:35:54.766 +03:00 [INF] Response:
+StatusCode: 404
+Content-Type: application/problem+json; charset=utf-8
+2024-07-15 22:35:54.776 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika) in 1569.5036ms
+2024-07-15 22:35:54.778 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika)'
+2024-07-15 22:35:54.781 +03:00 [INF] ResponseBody: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.5","title":"Not Found","status":404,"traceId":"00-586dce7c3140cff696c0606e51329178-9b370e0ac810ec38-00"}
+2024-07-15 22:35:54.787 +03:00 [INF] Duration: 1641.9295ms
+2024-07-15 22:35:54.802 +03:00 [INF] Request finished HTTP/2 PUT https://localhost:7003/api/Book/18 - 404 null application/problem+json; charset=utf-8 1683.3252ms
+2024-07-15 22:42:07.046 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-15 22:42:07.069 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-15 22:42:07.074 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 22:42:07.076 +03:00 [INF] Hosting environment: Development
+2024-07-15 22:42:07.077 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-15 22:42:10.504 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-15 22:42:10.773 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-15 22:42:10.774 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-15 22:42:10.782 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 296.1101ms
+2024-07-15 22:42:10.794 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 20.6184ms
+2024-07-15 22:42:10.841 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 67.1926ms
+2024-07-15 22:42:10.900 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-15 22:42:11.010 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 109.8247ms
+2024-07-15 22:42:22.353 +03:00 [INF] Request starting HTTP/2 PUT https://localhost:7003/api/Book/18 - application/json 72
+2024-07-15 22:42:22.371 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: PUT
+Scheme: https
+PathBase: 
+Path: /api/Book/18
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: [Redacted]
+Referer: [Redacted]
+Content-Length: 72
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 22:42:22.380 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika)'
+2024-07-15 22:42:22.410 +03:00 [INF] Route matched with {action = "UpdateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateBookAsync(Int32, PaparaPatika.ViewModels.BookViewModel) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 22:42:22.698 +03:00 [INF] RequestBody: {
+  "title": "Validation",
+  "publishDate": "2024-07-15T19:42:14.031Z"
+}
+2024-07-15 22:42:23.807 +03:00 [INF] Executed DbCommand (57ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-15 22:42:23.992 +03:00 [INF] Executed DbCommand (27ms) [Parameters=[@p2='?' (DbType = Int32), @p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Books] SET [PublishDate] = @p0, [Title] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+2024-07-15 22:42:24.010 +03:00 [INF] Kitap güncellendi: Validation
+2024-07-15 22:42:24.023 +03:00 [INF] Executing OkObjectResult, writing value of type 'PaparaPatika.ViewModels.BookViewModel'.
+2024-07-15 22:42:24.037 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-15 22:42:24.048 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika) in 1628.8281ms
+2024-07-15 22:42:24.053 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika)'
+2024-07-15 22:42:24.058 +03:00 [INF] ResponseBody: {"title":"Validation","publishDate":"2024-07-15T19:42:14.031Z"}
+2024-07-15 22:42:24.065 +03:00 [INF] Duration: 1694.0083ms
+2024-07-15 22:42:24.085 +03:00 [INF] Request finished HTTP/2 PUT https://localhost:7003/api/Book/18 - 200 null application/json; charset=utf-8 1732.6355ms
+2024-07-15 22:48:33.952 +03:00 [INF] Now listening on: https://localhost:7003
+2024-07-15 22:48:33.981 +03:00 [INF] Now listening on: http://localhost:5213
+2024-07-15 22:48:33.986 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 22:48:33.988 +03:00 [INF] Hosting environment: Development
+2024-07-15 22:48:33.990 +03:00 [INF] Content root path: C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika
+2024-07-15 22:48:37.402 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/index.html - null null
+2024-07-15 22:48:37.671 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/index.html - 200 null text/html;charset=utf-8 272.5119ms
+2024-07-15 22:48:37.678 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_vs/browserLink - null null
+2024-07-15 22:48:37.678 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-15 22:48:37.713 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 34.5511ms
+2024-07-15 22:48:37.763 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 84.5013ms
+2024-07-15 22:48:37.838 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - null null
+2024-07-15 22:48:37.947 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 108.7344ms
+2024-07-15 22:48:43.975 +03:00 [INF] Request starting HTTP/2 PUT https://localhost:7003/api/Book/3456 - application/json 68
+2024-07-15 22:48:43.994 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: PUT
+Scheme: https
+PathBase: 
+Path: /api/Book/3456
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: [Redacted]
+Referer: [Redacted]
+Content-Length: 68
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 22:48:44.002 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika)'
+2024-07-15 22:48:44.050 +03:00 [INF] Route matched with {action = "UpdateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateBookAsync(Int32, PaparaPatika.ViewModels.BookViewModel) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 22:48:44.329 +03:00 [INF] RequestBody: {
+  "title": "string",
+  "publishDate": "2024-07-15T19:48:40.738Z"
+}
+2024-07-15 22:48:45.469 +03:00 [INF] Executed DbCommand (48ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-15 22:48:45.499 +03:00 [INF] Kitap güncellendi: string
+2024-07-15 22:48:45.512 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-15 22:48:45.540 +03:00 [INF] Response:
+StatusCode: 404
+Content-Type: application/problem+json; charset=utf-8
+2024-07-15 22:48:45.550 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika) in 1488.3489ms
+2024-07-15 22:48:45.555 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.UpdateBookAsync (PaparaPatika)'
+2024-07-15 22:48:45.561 +03:00 [INF] ResponseBody: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.5","title":"Not Found","status":404,"traceId":"00-962937a047fe07d592ed15aefad31912-58977bcbc13a1d3f-00"}
+2024-07-15 22:48:45.565 +03:00 [INF] Duration: 1573.8039ms
+2024-07-15 22:48:45.581 +03:00 [INF] Request finished HTTP/2 PUT https://localhost:7003/api/Book/3456 - 404 null application/problem+json; charset=utf-8 1607.2416ms
+2024-07-15 22:48:54.189 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/345 - null null
+2024-07-15 22:48:54.196 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: DELETE
+Scheme: https
+PathBase: 
+Path: /api/Book/345
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Origin: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 22:48:54.201 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-15 22:48:54.206 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 22:48:54.234 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-15 22:48:54.237 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-07-15 22:48:54.238 +03:00 [INF] Response:
+StatusCode: 404
+Content-Type: application/problem+json; charset=utf-8
+2024-07-15 22:48:54.240 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 31.8446ms
+2024-07-15 22:48:54.241 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-15 22:48:54.242 +03:00 [INF] ResponseBody: {"type":"https://tools.ietf.org/html/rfc9110#section-15.5.5","title":"Not Found","status":404,"traceId":"00-a864994a613c0d930aa8b44456dd6885-07d825ea231c6870-00"}
+2024-07-15 22:48:54.246 +03:00 [INF] Duration: 50.4008ms
+2024-07-15 22:48:54.248 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/345 - 404 null application/problem+json; charset=utf-8 59.3121ms
+2024-07-15 22:49:16.955 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7003/api/Book - application/json 72
+2024-07-15 22:49:16.963 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Book
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: [Redacted]
+Referer: [Redacted]
+Content-Length: 72
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 22:49:16.966 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-15 22:49:16.976 +03:00 [INF] Route matched with {action = "CreateBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateBookAsync(PaparaPatika.ViewModels.BookViewModel) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 22:49:16.987 +03:00 [INF] RequestBody: {
+  "title": "Validation",
+  "publishDate": "2024-07-15T19:49:08.342Z"
+}
+2024-07-15 22:49:17.341 +03:00 [INF] Executed DbCommand (31ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Books] ([PublishDate], [Title])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2024-07-15 22:49:17.391 +03:00 [INF] Kitap oluşturuldu: Validation
+2024-07-15 22:49:17.394 +03:00 [INF] Executing OkObjectResult, writing value of type 'PaparaPatika.ViewModels.BookViewModel'.
+2024-07-15 22:49:17.401 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-15 22:49:17.403 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika) in 421.9647ms
+2024-07-15 22:49:17.405 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.CreateBookAsync (PaparaPatika)'
+2024-07-15 22:49:17.407 +03:00 [INF] ResponseBody: {"title":"Validation","publishDate":"2024-07-15T19:49:08.342Z"}
+2024-07-15 22:49:17.409 +03:00 [INF] Duration: 446.148ms
+2024-07-15 22:49:17.411 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7003/api/Book - 200 null application/json; charset=utf-8 456.5064ms
+2024-07-15 22:50:08.689 +03:00 [INF] Request starting HTTP/2 DELETE https://localhost:7003/api/Book/19 - null null
+2024-07-15 22:50:08.703 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: DELETE
+Scheme: https
+PathBase: 
+Path: /api/Book/19
+Accept: */*
+Host: localhost:7003
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Origin: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-15 22:50:08.704 +03:00 [INF] Executing endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-15 22:50:08.705 +03:00 [INF] Route matched with {action = "RemoveBook", controller = "Book"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RemoveBookAsync(Int32) on controller PaparaPatika.Controllers.BookController (PaparaPatika).
+2024-07-15 22:50:08.712 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [b].[Id], [b].[PublishDate], [b].[Title]
+FROM [Books] AS [b]
+WHERE [b].[Id] = @__p_0
+2024-07-15 22:50:08.759 +03:00 [INF] Executed DbCommand (34ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Books]
+OUTPUT 1
+WHERE [Id] = @p0;
+2024-07-15 22:50:08.771 +03:00 [INF] Kitap silindi: Validation
+2024-07-15 22:50:08.782 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-15 22:50:08.784 +03:00 [INF] Executed action PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika) in 75.7721ms
+2024-07-15 22:50:08.786 +03:00 [INF] Executed endpoint 'PaparaPatika.Controllers.BookController.RemoveBookAsync (PaparaPatika)'
+2024-07-15 22:50:08.787 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-15 22:50:08.787 +03:00 [INF] Duration: 83.86ms
+2024-07-15 22:50:08.788 +03:00 [INF] Request finished HTTP/2 DELETE https://localhost:7003/api/Book/19 - 200 0 null 99.7617ms

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PaparaPatika.Entitities;
 using PaparaPatika.IServices;
+using PaparaPatika.ViewModels;
 
 namespace PaparaPatika.Controllers
 {
@@ -20,14 +21,14 @@ namespace PaparaPatika.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllBooksAsync() 
         {
-            List<Book> bookList = await _bookService.GetAllBooksAsync();
+            List<BookViewModel> bookList = await _bookService.GetAllBooksAsync();
             return Ok(bookList);
         }
 
         [HttpGet("id")]
         public async Task<IActionResult> GetBookByIdAsync([FromQuery] int id)
         {
-            Book? book = await _bookService.GetBookByIdAsync(id);
+            BookViewModel? book = await _bookService.GetBookByIdAsync(id);
             if (book == null)
             {
                 return NotFound();
@@ -36,31 +37,31 @@ namespace PaparaPatika.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateBookAsync([FromBody] Book newBook)
+        public async Task<IActionResult> CreateBookAsync([FromBody] BookViewModel newBook)
         {
             if(!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-            Book _newBook = await _bookService.CreateBookAsync(newBook);
-            return Ok(_newBook);
+            BookViewModel createdBook = await _bookService.CreateBookAsync(newBook);
+            return Ok(createdBook);
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateBookAsync([FromBody] Book bookToUpdate)
+        public async Task<IActionResult> UpdateBookAsync([FromRoute] int id, [FromBody] BookViewModel bookToUpdate)
         {
-            Book? _bookToUpdate = await _bookService.UpdateBookAsync(bookToUpdate);
-            if (_bookToUpdate == null)
+            BookViewModel? updatedBook = await _bookService.UpdateBookAsync(id, bookToUpdate);
+            if (updatedBook == null)
             {
                 return NotFound();
             }
-            return Ok(bookToUpdate);
+            return Ok(updatedBook);
         }
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveBookAsync(int id)
         {
-            Book bookToRemove = await _bookService.RemoveBookAsync(id);
+            BookViewModel bookToRemove = await _bookService.RemoveBookAsync(id);
             if (bookToRemove == null)
             {
                 return NotFound();

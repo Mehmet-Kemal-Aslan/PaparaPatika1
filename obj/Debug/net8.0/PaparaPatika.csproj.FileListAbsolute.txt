@@ -146,3 +146,4 @@ C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\bin\Debug\net8.
 C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Mehmet Kemal\Desktop\Uygulama\PaparaPatika\PaparaPatika\bin\Debug\net8.0\AutoMapper.dll

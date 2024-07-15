@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaparaPatika")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81877dba4b181b7251c0d5e79c2e3f25ed3ee5a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+826e6ccd895a40ea4d4f7e4053ff843fd998ab06")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaparaPatika")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaparaPatika")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

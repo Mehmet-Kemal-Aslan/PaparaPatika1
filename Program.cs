@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.HttpLogging;
 using Microsoft.EntityFrameworkCore;
+using PaparaPatika.Common;
 using PaparaPatika.Entitities;
 using PaparaPatika.IRepositories;
 using PaparaPatika.IServices;
@@ -36,6 +37,8 @@ builder.Services.AddSwaggerGen();
 var connectionString = builder.Configuration.GetConnectionString("PaparaDB");
 builder.Services.AddDbContext<PaparaDbContext>(options =>
 options.UseSqlServer(connectionString));
+
+builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 builder.Services.AddScoped<IBookRepository, BookRepository>();
 builder.Services.AddScoped<IBookService, BookService>();

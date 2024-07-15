@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kyCKor+ktdo1GuWQw1t8smr8ZJpnS+TowXpOVg1gI5fjaJYZrNiebXLkaCO/nQh4TQ/wuA6/QL/xCyVL/dwv6g==",
+  "dgSpecHash": "fh0gFKjBwr4R7eGE34ngaozLHcAZ3CwyMFXCOu1n+TT+LrUHMOUNiPZo+4+eUpwbjKaEieGN4FZkCXJaWaCueg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mehmet Kemal\\Desktop\\Uygulama\\PaparaPatika\\PaparaPatika\\PaparaPatika.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Mehmet Kemal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
