@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PaparaPatika.Entitities;
 
@@ -11,9 +12,11 @@ using PaparaPatika.Entitities;
 namespace PaparaPatika.Migrations
 {
     [DbContext(typeof(PaparaDbContext))]
-    partial class PaparaDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240720174013_mig_2")]
+    partial class mig_2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -51,7 +54,10 @@ namespace PaparaPatika.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("AuthorId")
+                    b.Property<int?>("AuthorId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("BooksId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("PublishDate")
@@ -65,18 +71,24 @@ namespace PaparaPatika.Migrations
 
                     b.HasIndex("AuthorId");
 
+                    b.HasIndex("BooksId");
+
                     b.ToTable("Books");
                 });
 
             modelBuilder.Entity("PaparaPatika.Entitities.Book", b =>
                 {
-                    b.HasOne("PaparaPatika.Entitities.Author", "Author")
+                    b.HasOne("PaparaPatika.Entitities.Author", null)
                         .WithMany("Books")
-                        .HasForeignKey("AuthorId")
+                        .HasForeignKey("AuthorId");
+
+                    b.HasOne("PaparaPatika.Entitities.Book", "Books")
+                        .WithMany()
+                        .HasForeignKey("BooksId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Author");
+                    b.Navigation("Books");
                 });
 
             modelBuilder.Entity("PaparaPatika.Entitities.Author", b =>

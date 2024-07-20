@@ -1,4 +1,6 @@
-﻿namespace PaparaPatika.ViewModels
+﻿using PaparaPatika.Entitities;
+
+namespace PaparaPatika.ViewModels
 {
     public class BookViewModel
     {

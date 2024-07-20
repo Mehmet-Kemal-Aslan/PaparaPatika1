@@ -10,6 +10,9 @@ namespace PaparaPatika.Common
         {
             CreateMap<Book, BookViewModel>();
             CreateMap<BookViewModel, Book>();
+
+            CreateMap<Author, AuthorViewModel>();
+            CreateMap<AuthorViewModel, Author>();
         }
     }
 }

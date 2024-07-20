@@ -40,7 +40,10 @@ options.UseSqlServer(connectionString));
 
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 
-builder.Services.AddScoped<IBookRepository, BookRepository>();
+builder.Services.AddScoped<IGenericRepository<Book>, GenericRepository<Book>>();
+builder.Services.AddScoped<IGenericRepository<Author>, GenericRepository<Author>>();
+//builder.Services.AddScoped<IBookRepository, BookRepository>();
+builder.Services.AddScoped<IAuthorService, AuthorService>();
 builder.Services.AddScoped<IBookService, BookService>();
 
 var app = builder.Build();

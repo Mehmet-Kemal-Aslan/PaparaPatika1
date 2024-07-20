@@ -2,6 +2,7 @@
 using PaparaPatika.Entitities;
 using PaparaPatika.IRepositories;
 using PaparaPatika.IServices;
+using PaparaPatika.Repositories;
 using PaparaPatika.Validation;
 using PaparaPatika.ViewModels;
 using System.ComponentModel.DataAnnotations;
@@ -10,13 +11,13 @@ namespace PaparaPatika.Services
 {
     public class BookService : IBookService
     {
-        private readonly IBookRepository _bookRepository;
+        private readonly IGenericRepository<Book> _genericRepository;
         private readonly ILogger<BookService> _logger;
         private readonly IMapper _mapper;
 
-        public BookService(IBookRepository bookRepository, ILogger<BookService> logger, IMapper mapper)
+        public BookService(IGenericRepository<Book> genericRepository, ILogger<BookService> logger, IMapper mapper)
         {
-            _bookRepository = bookRepository;
+            _genericRepository = genericRepository;
             _logger = logger;
             _mapper = mapper;
         }
@@ -34,7 +35,7 @@ namespace PaparaPatika.Services
                 throw new ValidationException(errors);
             }
             Book bookToCreate = _mapper.Map<Book>(newBook);
-            Book createdBook = await _bookRepository.CreateBookAsync(bookToCreate);
+            Book createdBook = await _genericRepository.Create(bookToCreate);
             BookViewModel _createdBook = _mapper.Map<BookViewModel>(createdBook);
             _logger.LogInformation("Kitap oluşturuldu: {Title}", newBook.Title);
             return _createdBook;
@@ -42,21 +43,21 @@ namespace PaparaPatika.Services
 
         public async Task<List<BookViewModel>> GetAllBooksAsync()
         {
-            List<Book> books = await _bookRepository.GetAllBooksAsync();
+            List<Book?> books = await _genericRepository.GetAll();
             List<BookViewModel> bookList = _mapper.Map<List<BookViewModel>>(books);
             return bookList;
         }
 
         public async Task<BookViewModel> GetBookByIdAsync(int id)
         {
-            Book? book = await _bookRepository.GetBookByIdAsync(id);
+            Book? book = await _genericRepository.GetById(id);
             BookViewModel _book = _mapper.Map<BookViewModel>(book);
             return _book;
         }
 
         public async Task<BookViewModel> RemoveBookAsync(int id)
         {
-            Book deletedBook = await _bookRepository.RemoveBookAsync(id);
+            Book deletedBook = await _genericRepository.Delete(id);
             BookViewModel _deletedBook = _mapper.Map<BookViewModel>(deletedBook);
             if (deletedBook != null)
             {
@@ -77,7 +78,7 @@ namespace PaparaPatika.Services
             }
             Book bookToUpdate = _mapper.Map<Book>(newBook);
             bookToUpdate.Id = id;
-            Book updatedBook = await _bookRepository.UpdateBookAsync(bookToUpdate);
+            Book updatedBook = await _genericRepository.Update(bookToUpdate);
             BookViewModel _updatedBook = _mapper.Map<BookViewModel>(updatedBook);
             _logger.LogInformation("Kitap güncellendi: {Title}", newBook.Title);
             return _updatedBook;

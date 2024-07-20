@@ -2,12 +2,11 @@
 
 namespace PaparaPatika.Entitities
 {
-    public class Book
+    public class Book : Base
     {
-        public int Id { get; set; }
         [Required(ErrorMessage = "Kitap adı zorunludur.")]
         public string Title { get; set; }
         public DateTime PublishDate { get; set; }
-
+        public Author Author { get; set; }
     }
 }
